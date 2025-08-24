@@ -1,12 +1,13 @@
 [package]
-name = "dioxus-library-template"
-version = "0.2.0"
+name = "dioxus-portal"
+version = "0.0.0"
 edition = "2021"
-description = "Library for Dioxus 🧬"
+license = "MIT"
+description = "Portal component for Dioxus"
 readme = "./README.md"
-homepage = "https://github.com/dioxus-community/dioxus-library-template"
-repository = "https://github.com/dioxus-community/dioxus-library-template"
-keywords = ["dioxus"]
+homepage = "https://github.com/tarakojo/dioxus-portal"
+repository = "https://github.com/tarakojo/dioxus-portal"
+keywords = ["dioxus", "portal", "tooltip", "dropdown"]
 categories = ["gui"]
 
 [dependencies]

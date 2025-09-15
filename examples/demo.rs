@@ -1,5 +1,5 @@
 use dioxus::prelude::*;
-use dioxus_library_template::*;
+use dioxus_portal::*;
 
 fn main() {
     dioxus::launch(app);
